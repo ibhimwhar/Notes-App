@@ -12,7 +12,7 @@ const Footer = ({ buttonLeft, buttonRight, PathLeft, PathRight }) => {
                 </button>
 
                 <div className="relative w-14 h-14 flex justify-center items-center bg-sky-500 rounded-full shadow-xl">
-                    <a href='/' className="bg-white/25 border-5 border-sky-600  p-2 rounded-full shadow-md cursor-pointer hover:scale-110 transition-all">
+                    <a href='/Notes-App/' className="bg-white/25 border-5 border-sky-600  p-2 rounded-full shadow-md cursor-pointer hover:scale-110 transition-all">
                         <IoIosAdd size={40} className="text-[var(--bgColor)] " />
                     </a>
                 </div>

@@ -28,7 +28,7 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route index element={<Hero onToggle={toggleDarkMode} />} />
+        <Route path='/Notes-App' element={<Hero onToggle={toggleDarkMode} />} />
         <Route path='/path/favorites' element={<Favorites />} />
         <Route path='/path/categories' element={<Categories />} />
         <Route path='*' element={<NoPage />} />

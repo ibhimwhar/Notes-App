@@ -6,7 +6,7 @@ import { Link } from 'react-router';
 
 const SideButtonLeft = () => {
     const List = [
-        { id: 1, title: 'All Notes', icon: <FaNoteSticky />, link: '/' },
+        { id: 1, title: 'All Notes', icon: <FaNoteSticky />, link: '/Notes-App/' },
         { id: 2, title: 'Favorites', icon: <FaHeart />, link: '/path/favorites' },
         { id: 3, title: 'Categories', icon: <BiSolidCategory />, link: '/path/categories' }
     ];
