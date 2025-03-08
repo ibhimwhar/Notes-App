@@ -1,0 +1,41 @@
+|--- src
+|
+|       |--- components
+|
+|                      |--- Hero
+|
+|                               |--- Pages
+|
+|                                         |--- Categories.jsx
+|
+|                                         |--- Favorites.jsx
+|
+|                                         |--- HomePage.jsx
+|
+|                                         |--- NoteInput.jsx
+|
+|                                         |--- NoteModal.jsx
+|
+|                                         |--- SideBar.jsx
+|
+|                               |--- Side Menu
+|
+|                                         |--- SideButtonLeft.jsx
+|
+|                                         |--- SideButtonRight.jsx
+|
+|                               |--- Footer.jsx
+|
+|                               |--- Header.jsx
+|
+|                               |--- Hero.jsx
+|
+|                      |--- NoPage.jsx
+|
+|       |--- App.jsx
+|
+|       |--- index.css
+|
+|       |--- main.jsx
+|
+|--- src
